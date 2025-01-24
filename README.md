@@ -1,0 +1,3 @@
+# TypeScript Type Error: String Argument to Number Parameter
+
+This repository demonstrates a common TypeScript type error that occurs when passing an argument of an incorrect type to a function.  The code includes a simple addition function that expects two numbers, but it attempts to call it with a string.  The solution shows how to correct this by either explicitly type-checking the arguments or using type guards.
